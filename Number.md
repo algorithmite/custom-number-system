@@ -55,6 +55,7 @@ This leaves the task of choosing the consonants for the characters through base 
 z & s, k & g, t & d, p & f, 
 
 That means that the characters for 0 - 15 are pronounced
+
 0. zo
 1. za
 2. so
